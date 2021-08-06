@@ -3,7 +3,7 @@ FreeRTOS ESP32 MPU6050
 
 
 
-## Table of Contents
+## Tabla de Contenidos
 
 * [Acerca del proyecto](#about-the-project)
   * [Tech Stack](#tech-stack)
@@ -20,7 +20,7 @@ FreeRTOS ESP32 MPU6050
 * [License](#license)
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Acerca del proyecto
 * The Aim of the Project is to make a Mouse using the data fusion DMP(Digital Motion Processing) of MPU_6050 and ESP32 with Bluetooth support to actually make it    easier for the user to move pointer in any position they want.
 * The Support for Right and Left click is also established using Capacitive touch pins of ESP32.
    
@@ -31,7 +31,7 @@ The Technologies used for this project are
 * [FreeRTOS](https://www.freertos.org/openrtos.html)
 * [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 
-### File Structure
+### Estructura de archivos
     .
     ├── Components              # Contiene archivos de una biblioteca específica de funciones o hardware utilizado
     │    ├──I2Cdev              # Biblioteca para comunicación I2C
@@ -55,7 +55,7 @@ The Technologies used for this project are
 
 ## Getting Started
 
-### Pre Requisites
+### Pre Requisitos
 Instalar ESP-IDF : https://github.com/espressif/esp-idf
 
 ### Instalación
