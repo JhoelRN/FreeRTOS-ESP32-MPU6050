@@ -2,7 +2,7 @@ ESP32 FREERTOS MPU6050
 
 
 
-### File Structure
+### Estructura del Archivo
     .
     ├── Components              # Contiene archivos de una biblioteca específica de funciones o hardware utilizado
     │    ├──I2Cdev              # Biblioteca para comunicación I2C
