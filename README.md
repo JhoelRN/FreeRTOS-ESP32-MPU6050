@@ -1,6 +1,3 @@
-I2CDev library rewritted to match esp-idf. DMP should work, only need is to setup 
-    mpu.setXGyroOffset(220);
-    mpu.setYGyroOffset(76);
-    mpu.setZGyroOffset(-85);
-    mpu.setZAccelOffset(1788);
-and eventually change last value in components/MPU6050/MPU6050_6Axis_MotionApps20.h.
+ESP32 FREERTOS MPU6050
+
+![image](https://user-images.githubusercontent.com/62358739/128577984-1d5778cf-cf7d-4efe-9507-e0445d4a98e9.png)
